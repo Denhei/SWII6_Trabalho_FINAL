@@ -1,0 +1,15 @@
+D:\Faculdade\aulas\6_semestre\swii\Final\SWII6-main\SWII6-main\SWII_Final_TP\SWII_DESKTOP_API\Desktop_TP_Final\bin\Debug\Desktop_TP_Final.exe.config
+D:\Faculdade\aulas\6_semestre\swii\Final\SWII6-main\SWII6-main\SWII_Final_TP\SWII_DESKTOP_API\Desktop_TP_Final\bin\Debug\Desktop_TP_Final.exe
+D:\Faculdade\aulas\6_semestre\swii\Final\SWII6-main\SWII6-main\SWII_Final_TP\SWII_DESKTOP_API\Desktop_TP_Final\bin\Debug\Desktop_TP_Final.pdb
+D:\Faculdade\aulas\6_semestre\swii\Final\SWII6-main\SWII6-main\SWII_Final_TP\SWII_DESKTOP_API\Desktop_TP_Final\bin\Debug\Newtonsoft.Json.dll
+D:\Faculdade\aulas\6_semestre\swii\Final\SWII6-main\SWII6-main\SWII_Final_TP\SWII_DESKTOP_API\Desktop_TP_Final\obj\Debug\Desktop_TP_Final.csproj.AssemblyReference.cache
+D:\Faculdade\aulas\6_semestre\swii\Final\SWII6-main\SWII6-main\SWII_Final_TP\SWII_DESKTOP_API\Desktop_TP_Final\obj\Debug\Desktop_TP_Final.FormMain.resources
+D:\Faculdade\aulas\6_semestre\swii\Final\SWII6-main\SWII6-main\SWII_Final_TP\SWII_DESKTOP_API\Desktop_TP_Final\obj\Debug\Desktop_TP_Final.FormCriar.resources
+D:\Faculdade\aulas\6_semestre\swii\Final\SWII6-main\SWII6-main\SWII_Final_TP\SWII_DESKTOP_API\Desktop_TP_Final\obj\Debug\Desktop_TP_Final.FormGerenciar.resources
+D:\Faculdade\aulas\6_semestre\swii\Final\SWII6-main\SWII6-main\SWII_Final_TP\SWII_DESKTOP_API\Desktop_TP_Final\obj\Debug\Desktop_TP_Final.FormEdit.resources
+D:\Faculdade\aulas\6_semestre\swii\Final\SWII6-main\SWII6-main\SWII_Final_TP\SWII_DESKTOP_API\Desktop_TP_Final\obj\Debug\Desktop_TP_Final.Properties.Resources.resources
+D:\Faculdade\aulas\6_semestre\swii\Final\SWII6-main\SWII6-main\SWII_Final_TP\SWII_DESKTOP_API\Desktop_TP_Final\obj\Debug\Desktop_TP_Final.csproj.GenerateResource.cache
+D:\Faculdade\aulas\6_semestre\swii\Final\SWII6-main\SWII6-main\SWII_Final_TP\SWII_DESKTOP_API\Desktop_TP_Final\obj\Debug\Desktop_TP_Final.csproj.CoreCompileInputs.cache
+D:\Faculdade\aulas\6_semestre\swii\Final\SWII6-main\SWII6-main\SWII_Final_TP\SWII_DESKTOP_API\Desktop_TP_Final\obj\Debug\Desktop_TP_Final.csproj.CopyComplete
+D:\Faculdade\aulas\6_semestre\swii\Final\SWII6-main\SWII6-main\SWII_Final_TP\SWII_DESKTOP_API\Desktop_TP_Final\obj\Debug\Desktop_TP_Final.exe
+D:\Faculdade\aulas\6_semestre\swii\Final\SWII6-main\SWII6-main\SWII_Final_TP\SWII_DESKTOP_API\Desktop_TP_Final\obj\Debug\Desktop_TP_Final.pdb
